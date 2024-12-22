@@ -66,8 +66,8 @@ I welcome contributions to my repositories. Please refer to the contribution gui
 
 Feel free to reach out through any of the following:  
 
-- **Email:** [your-email@example.com](ahmed.mariee.2002@gmail.com)  
-- **LinkedIn:** [Ahmed Marey]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ahmed-mar3y-b289a1212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- **Email:** [Ahmed Mar3y](ahmed.mariee.2002@gmail.com)  
+- **LinkedIn:** [Ahmed Marey](https://www.linkedin.com/in/ahmed-mar3y-b289a1212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **CV:** [Download My CV](https://drive.google.com/file/d/1qMdiYxGgeRHZr5qQfF76W58HCdXpbqRd/view?usp=sharing)  
 
 ---
