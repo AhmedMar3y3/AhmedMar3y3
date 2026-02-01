@@ -1,18 +1,18 @@
 # Welcome to My GitHub Profile! 👋  
 
-Thank you for visiting! I’m a passionate **Laravel Backend Developer** specializing in building robust and efficient web applications. I enjoy solving complex problems, optimizing systems, and collaborating on impactful projects.  
+Thank you for visiting! I’m a passionate **Backend Developer** specializing in building robust and efficient web & Mobile applications. I enjoy solving complex problems, optimizing systems, and collaborating on impactful projects.  
 
 ---
 
 ## About Me 🧑‍💻  
 
-I’m **Ahmed Marey**, a **Laravel Backend Developer** with a Bachelor's degree in **Computer and Information Science** from **Mansoura University**.  
+I’m **Ahmed Marey**, a **Backend Developer** with a Bachelor's degree in **Computer and Information Science** from **Mansoura University**.  
 
 I’ve gained extensive experience developing backend solutions for applications, with a focus on creating APIs, managing databases, and implementing secure and scalable systems.  
 
 
 
-Currently, I’m working for **Da3em** and enhancing my skills by learning advanced concepts and contributing to impactful projects.
+Currently, I’m working for **Qader** and enhancing my skills by learning advanced concepts and contributing to impactful projects.
 
 ---
 
@@ -21,7 +21,8 @@ Currently, I’m working for **Da3em** and enhancing my skills by learning advan
 I’m proficient in the following technologies:  
 
 - **PHP** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
-- **Laravel** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+- **Laravel** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 - **MongoDB** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 - **REST APIs** ![APIs](https://img.shields.io/badge/REST%20APIs-61DAFB?style=flat&logo=postman&logoColor=white)  
@@ -40,7 +41,6 @@ I’m proficient in the following technologies:
 
 ## Future Goals 🚀  
 
-- Master advanced Laravel features such as **queues** and **event broadcasting**.  
 - Gain expertise in **Docker** and **CI/CD pipelines** for efficient deployment workflows.  
 - Contribute to open-source Laravel projects to give back to the community.  
 
