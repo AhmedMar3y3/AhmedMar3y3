@@ -1,76 +1,78 @@
-# Welcome to My GitHub Profile! 👋  
+# 👋 Hi, I'm Ahmed Marey
 
-Thank you for visiting! I’m a passionate **Backend Developer** specializing in building robust and efficient web & Mobile applications. I enjoy solving complex problems, optimizing systems, and collaborating on impactful projects.  
+**Backend Engineer** — I build scalable, high‑performance systems used by millions.
 
----
-
-## About Me 🧑‍💻  
-
-I’m **Ahmed Marey**, a **Backend Developer** with a Bachelor's degree in **Computer and Information Science** from **Mansoura University**.  
-
-I’ve gained extensive experience developing backend solutions for applications, with a focus on creating APIs, managing databases, and implementing secure and scalable systems.  
-
-
-
-Currently, I’m working for **Qader** and enhancing my skills by learning advanced concepts and contributing to impactful projects.
+📍 Cairo, Egypt
+📧 ahmed.mariee.2002@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-mar3y-b289a1212) • [GitHub](https://github.com/AhmedMarey) • [Portfolio](https://rosybrown-lion-304022.hostingersite.com)
 
 ---
 
-## Skills & Technologies 🛠️  
+## 🚀 What I do
 
-I’m proficient in the following technologies:  
+I design and maintain backend services for **high‑traffic mobile apps (5M+ users)** and complex platforms (e‑commerce, ERPs, LMS, HR systems).
+I care about **performance, clean architecture, and reliable deployments**.
 
-- **PHP** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
-- **Laravel** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-- **MongoDB** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-- **REST APIs** ![APIs](https://img.shields.io/badge/REST%20APIs-61DAFB?style=flat&logo=postman&logoColor=white)  
-- **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-- **HTML5** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-- **CSS3** ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- **Backend:** PHP (Laravel), Python (FastAPI), REST APIs, OOP, SOLID
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **DevOps:** Docker, CI/CD, Git (GitHub/GitLab), deployment automation
+- **Integrations:** Payment gateways, Firebase, Pusher, SMS/WhatsApp, email services, Redis
 
 ---
 
-## Achievements & Certifications 🏆  
+## 💼 Current & recent roles
 
-- **Networks and Cybersecurity Internship** from **NTI** 🏅  
-
----
-
-## Future Goals 🚀  
-
-- Gain expertise in **Docker** and **CI/CD pipelines** for efficient deployment workflows.  
-- Contribute to open-source Laravel projects to give back to the community.  
+| Role                      | Company            | Period           |
+|---------------------------|--------------------|------------------|
+| Backend Engineer          | **Qader** (full‑time) | 05/2025 – present |
+| Co‑founder & Lead Developer | **Nexus** (part‑time) | 05/2024 – present |
+| Backend Developer         | **Da'em**          | 01/2025 – 05/2025 |
+| Backend Developer         | **Fourth Pyramid** | 07/2024 – 01/2025 |
 
 ---
 
-## GitHub Stats 📊  
+## 🧩 Featured projects
 
-### Classic Stats:  
-![Ahmed Marey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedMarey&show_icons=true&theme=radical&hide_title=true&count_private=true)  
+| Project          | Description                                                      | Tech Stack                                        |
+|------------------|------------------------------------------------------------------|---------------------------------------------------|
+| **Rosy Calc**    | Women’s health app – **5M+ users** across MENA                   | Laravel, Redis, Firebase                          |
+| **Bekam2day**    | Multi‑role platform + real‑time chat                             | Laravel, Pusher, Paymob                           |
+| **Nawaya Events**| Workshops + e‑commerce + admin dashboard                         | Laravel, WhatsApp API, Firebase                   |
+| **MTExpress**    | Shipping ERP (orders, settlements, tracking)                     | Laravel, PostgreSQL                               |
+| **Gado HR**      | HR system with payroll, insurance, attendance                    | Laravel, MySQL, GPS                               |
+| **Neo Nerd**     | Secure LMS for medical students                                  | Laravel, Telegram bot, Firebase                   |
 
-### Top Languages:  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMarey&layout=compact&theme=radical)  
+🌟 **More projects on my [portfolio](https://rosybrown-lion-304022.hostingersite.com)**
 
----
-
-## Contributing 🤝  
-
-I welcome contributions to my repositories. Please refer to the contribution guidelines provided in each repository for details on how you can help.  
-
----
-
-## Contact Me 📧  
-
-Feel free to reach out through any of the following:  
-
-- **Email:** [Ahmed Mar3y](mailto:ahmed.mariee.2002@gmail.com)  
-- **LinkedIn:** [Ahmed Marey](https://www.linkedin.com/in/ahmed-mar3y-b289a1212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- **CV:** [Download My CV](https://drive.google.com/file/d/1UH9nkopY2RuVYM7IOD2XJ25T9TLGyMUU/view)  
+> 🔗 Full list → [repositories tab](https://github.com/AhmedMarey?tab=repositories)
 
 ---
 
-**Let’s build something amazing together—reach out anytime! 🚀**
+## 📈 GitHub Stats
 
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedMarey&show_icons=true&theme=radical&hide_title=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMarey&layout=compact&theme=radical)
+
+---
+
+## 🏆 Certifications
+
+- **Networks and Cybersecurity Internship** – NTI
+
+---
+
+## 🎯 What I’m learning now
+
+- Advanced Docker & CI/CD pipelines
+- Open‑source Laravel contributions
+
+---
+
+## 📫 Let’s connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-mar3y-b289a1212)
+- 📧 ahmed.mariee.2002@gmail.com
+- 🌐 [Personal portfolio](https://rosybrown-lion-304022.hostingersite.com)
+
+⭐ *Open to backend roles, freelance work, or interesting system design challenges.*
