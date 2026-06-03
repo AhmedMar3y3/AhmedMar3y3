@@ -4,7 +4,7 @@
 
 📍 Cairo, Egypt  
 📧 [Send me an email](mailto:ahmed.mariee.2002@gmail.com)  
-🔗 [GitHub](https://github.com/AhmedMarey) • [Portfolio](https://rosybrown-lion-304022.hostingersite.com) • [CV](https://rosybrown-lion-304022.hostingersite.com/storage/cv.pdf) • [Contact Card](https://ahmedmarey.online)
+🔗 [Portfolio](https://rosybrown-lion-304022.hostingersite.com) • [CV](https://rosybrown-lion-304022.hostingersite.com/storage/cv.pdf) • [Contact Card](https://ahmedmarey.online)
 
 ---
 
