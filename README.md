@@ -10,13 +10,9 @@
 
 ## 🚀 What I do
 
-Backend development for web & mobile applications. Focus on clean APIs, database design, and reliable integrations.
-
-- **Backend:** PHP, Laravel, Python, FastAPI, OOP, SOLID, REST APIs  
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Frontend:** HTML, CSS, JavaScript, ReactJS, NextJS, Blade, Livewire
-- **DevOps:** Deployment, Docker, CI/CD, Git (GitHub, GitLab)  
-- **Integrations:** Payment Gateways, SMS/WhatsApp Providers, Firebase, Email Services, Pusher, Redis, AI 
+- **Scalable Systems** — Built for real-world high-load apps  
+- **Integrations** — Payments, APIs, and external services  
+- **Deployment** — Production-ready and CI/CD workflows  
 
 ---
 
@@ -53,4 +49,4 @@ Backend development for web & mobile applications. Focus on clean APIs, database
 
 ---
 
-⭐ *Open to backend roles & collaborations.*
+⭐ *Open to new roles & collaborations.*
