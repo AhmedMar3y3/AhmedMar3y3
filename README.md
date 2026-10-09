@@ -36,15 +36,15 @@
 - [Gado HR](https://play.google.com/store/apps/details?id=com.gadohr.app)  
 - [Neo Nerd](https://play.google.com/store/apps/details?id=com.app.new_nerd)  
 
-👉 More on my [portfolio](https://rosybrown-lion-304022.hostingersite.com)
+👉 More on my [portfolio](https://ahmed-mar3y.space)
 
 ---
 
 ## 📫 Contact
 
 - 📧 [Email me](mailto:ahmed.mariee.2002@gmail.com)  
-- 🌐 [Portfolio](https://rosybrown-lion-304022.hostingersite.com)  
-- 📄 [CV (PDF)](https://rosybrown-lion-304022.hostingersite.com/storage/cv.pdf)  
+- 🌐 [Portfolio](https://ahmed-mar3y.space)  
+- 📄 [CV (PDF)](https://ahmed-mar3y.space/storage/cv.pdf)  
 - 📇 [Contact Card](https://ahmedmarey.online)
 
 ---
